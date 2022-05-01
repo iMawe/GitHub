@@ -272,12 +272,15 @@ Primer repositorio en GitHub
 
 ## CUESTIONARIO
 - ¿Por qué Git es una herramienta importante en el curso?
+
   Porque gracias a esta herramienta podemos realizar un proyecto de forma remota, implementar avances que se van realizando con el pasar del tiempo. Nos ayuda a mantener orden en nuestro trabajo, porque cada actualizacion o "push" viene seguido por un comentario que indica cual fue la actualizacion que se realizo.
   
 - ¿Qué conductas éticas debe promocionarse cuando se usa un Sistema de Control de Versiones?
+
   Ser honesto y confiable, respetar el trabajo necesario para producir nuevas ideas, inventos, trabajos creativos y artefactos informáticos, esforzarse por lograr una alta calidad tanto en los procesos como en los productos del trabajo profesional, aceptar y proporcionar una revisión profesional adecuada, entre otras.
   
 - ¿Qué son los estándares de codificación?
+
   Es un paradigma de programacion que busca reducir el numero de decisiones que deben tomar los desarrolladores al momento de escribir codigo. Son un conjunto no formal de reglas, que han surgido en las distintas comunidades de desarrolladores a lo largo del tiempo que nos ayudan a no tener mala practica al momneto de codificar.
 
 ## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
